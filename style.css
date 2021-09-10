@@ -1,0 +1,18 @@
+.count{
+    width: 20px;
+}
+
+.productAdd{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card{
+    height: 400px;
+}
+
+.card-img-top{
+    width: 275px;
+    height: 250px;
+}
